@@ -1,2 +1,3 @@
 # LTHDT
-thuchanh
+THUCHANH
+
